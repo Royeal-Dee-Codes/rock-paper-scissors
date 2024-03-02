@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: 5px solid black;
+  height: 15rem;
+}
+
+button {
+  margin: 15px;
+  padding: 15px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #ff91af;
+  border-radius: 5px;
+}
+
+button i {
+  color: black;
+  padding: 5px;
+}
